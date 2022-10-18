@@ -1,0 +1,8 @@
+,Name,Address,Type,Rating,Coordinates
+0,First Watch,"143 N Illinois St, Indianapolis, IN 46204, USA",restaurant,4.3,"{'lat': 39.769421, 'lng': -86.1595979}"
+1,Circle Centre Mall,"49 W Maryland St, Indianapolis, IN 46204, USA",shopping_mall,4.1,"{'lat': 39.76520379999999, 'lng': -86.1588814}"
+2,Indiana War Memorial & Museum,"55 E Michigan St, Indianapolis, IN 46204, USA",tourist_attraction,4.7,"{'lat': 39.7736084, 'lng': -86.15695679999999}"
+3,The Old Spaghetti Factory,"210 S Meridian St, Indianapolis, IN 46225, USA",restaurant,4.2,"{'lat': 39.7640687, 'lng': -86.1586523}"
+4,Twisted Room Escapes Indianapolis,"200 S Meridian St STE 220, Indianapolis, IN 46225, USA",tourist_attraction,4.9,"{'lat': 39.7639469, 'lng': -86.1584453}"
+5,Indianapolis Zoo,"Simon Skjodt International Orangutan Center, 1200 W Washington St, Indianapolis, IN 46222, USA",zoo,4.5,"{'lat': 39.76801040000001, 'lng': -86.18065920000001}"
+6,Dave's Hot Chicken,"530 Massachusetts Ave Suite 150, Indianapolis, IN 46204, USA",restaurant,4.6,"{'lat': 39.7748769, 'lng': -86.14990739999999}"
